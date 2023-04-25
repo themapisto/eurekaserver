@@ -5,7 +5,7 @@ metadata:
   namespace: springboot
 spec:
   virtualhost:
-    fqdn: eureka.taskoo.net
+    fqdn: eureka.coinsik.net
   routes:
     - services:
         - name: eureka
